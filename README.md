@@ -1,3 +1,3 @@
 # hsss-accessibility-refactor
 
-![Full Page Refactor](./assets/images/hsss-accessibilty-refactor.jpg)
+![Full Page Refactor](./assets/images/hsss-accessibility-refactor.jpg)
