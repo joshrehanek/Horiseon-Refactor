@@ -1,1 +1,1 @@
-# hsss-acessability-refactor
+# hsss-accessibility-refactor
