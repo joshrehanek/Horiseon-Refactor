@@ -1,6 +1,6 @@
 # hsss-accessibility-refactor
 
-#H1 Changes in this refactor included:
+  Changes in this refactor included:
 - Added a concise, descriptive title
 - Fixed the broken header link
 - Added title attributes to all images
